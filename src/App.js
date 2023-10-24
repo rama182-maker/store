@@ -13,7 +13,7 @@ function App() {
             path="/"
             element={
               <div className="redirect">
-                <a href="http://localhost:3001/products">
+                <a href="https://store-phi-one.vercel.app/products">
                   Go to products page!
                 </a>
               </div>
